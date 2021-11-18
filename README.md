@@ -8,7 +8,6 @@ I’m currently learning web development 👀 (Angular, React and Vue, and who k
 + **Redoc-asyncapi:** Built in React, it is an extension (clone) from Redoc component to support AsyncAPI spec, and also, allowing more styles customization.
 + **Nestjs-openapi:** Nestjs decorators extension for OpenAPI and AsyncAPI specification, in TS.
 + **Nodejs-opentelemetry:** Proof Of Concept for OpenTelemetry within Web and Nestjs (Nodejs).
-+ **AzureDevopsExtensions:** AzureDevOps para la creación de Widgets y manejo de Releases en Javascript y Typescript.
 + **AzureDevopsExtensions:** AzureDevOps extension for building Widgets on the fly, fast to test, and with tasks for improving releases.
 
 <!---

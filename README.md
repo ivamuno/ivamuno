@@ -1,14 +1,34 @@
-Hi, I’m Iván Muñoz Mozo (@ivamuno) 👋
+# 👋 Hi, I'm Iván Muñoz Mozo (@ivamuno)
 
-I am a software enginerr who is passionate about improving and learning new things.
-I’m currently learning web development 👀 (Angular, React and Vue, and who knows if Lit as well), mostly working with TypeScript, those are the projects where I have worked:
+I'm a passionate **Software Engineer** who enjoys learning and improving every day.  
+Currently diving deeper into **web development**, especially with **TypeScript**, **React**, and exploring tools like **Lit**.
 
-+ **Journalearn:** Pet project in Angular + Redux + Typescript + Firebase to learn English writting journals.
-+ **OpsFlow-Saga:** Proof Of Concept for Saga pattern (translated from eventuate-tram framework) to orchrestrate microservices built in Typescript, and also, using Vue + Nestjs + Rabbit + MSSQL.
-+ **Redoc-asyncapi:** Built in React, it is an extension (clone) from Redoc component to support AsyncAPI spec, and also, allowing more styles customization.
-+ **Nestjs-openapi:** Nestjs decorators extension for OpenAPI and AsyncAPI specification, in TS.
-+ **Nodejs-opentelemetry:** Proof Of Concept for OpenTelemetry within Web and Nestjs (Nodejs).
-+ **AzureDevopsExtensions:** AzureDevOps extension for building Widgets on the fly, fast to test, and with tasks for improving releases.
+Here are some of the projects I've worked on:
+
+### 🚀 Featured Projects
+
+- **[Journalearn](https://github.com/ivamuno/Journalearn)**  
+  A pet project to improve English writing through daily journals. Built with **Angular**, **Redux**, **TypeScript**, and **Firebase**.
+
+- **[OpsFlow-Saga](https://github.com/ivamuno/OpsFlow-Saga)**  
+  Proof of Concept implementing the **Saga pattern** (based on the eventuate-tram framework) to orchestrate microservices. Stack: **TypeScript**, **Vue**, **NestJS**, **RabbitMQ**, **MSSQL**.
+
+- **[Redoc-asyncapi](https://github.com/ivamuno/Redoc-asyncapi)**  
+  A React-based extension of **Redoc** to support the **AsyncAPI** specification, with enhanced styling customization options.
+
+- **[Nestjs-openapi](https://github.com/ivamuno/nestjs-openapi)**  
+  Custom decorators for **NestJS** to support both **OpenAPI** and **AsyncAPI** specifications in **TypeScript**.
+
+- **[Nodejs-opentelemetry](https://github.com/ivamuno/Nodejs-opentelemetry)**  
+  Proof of Concept for integrating **OpenTelemetry** with web applications and **NestJS (Node.js)** backend.
+
+- **[AzureDevopsExtensions](https://github.com/ivamuno/AzureDevopsExtensions)**  
+  A set of **Azure DevOps extensions** to quickly build widgets and streamline release management.
+
+---
+
+🔍 Always open to learning something new.  
+💬 Feel free to reach out or explore my repositories!
 
 <!---
 ivamuno/ivamuno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

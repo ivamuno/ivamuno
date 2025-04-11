@@ -7,6 +7,9 @@ Currently diving deeper into **web development**, especially with **TypeScript**
 
 ## 💼 Production-Ready & Practical Tools
 
+- **[cypress-api-coverage](https://github.com/ivamuno/cypress-api-coverage)**  
+  A Cypress plugin that generates API coverage reports from **OpenAPI/Swagger** specifications, built with **TypeScript** and extending HAR generation capabilities.
+
 - **[Redoc-asyncapi](https://github.com/ivamuno/Redoc-asyncapi)**  
   A React-based extension of **Redoc** to support the **AsyncAPI** specification, with enhanced styling customization options.
 

@@ -10,27 +10,27 @@ Currently diving deeper into **web development**, especially with **TypeScript**
 - **[cypress-api-coverage](https://github.com/ivamuno/cypress-api-coverage)**  
   A Cypress plugin that generates API coverage reports from **OpenAPI/Swagger** specifications, built with **TypeScript** and extending HAR generation capabilities.
 
-- **[Redoc-asyncapi](https://github.com/ivamuno/Redoc-asyncapi)**  
+- **[redoc-asyncapi](https://github.com/ivamuno/Redoc-asyncapi)**  
   A React-based extension of **Redoc** to support the **AsyncAPI** specification, with enhanced styling customization options.
 
-- **[Nestjs-openapi](https://github.com/ivamuno/nestjs-openapi)**  
+- **[nestjs-openapi](https://github.com/ivamuno/nestjs-openapi)**  
   Custom decorators for **NestJS** to support both **OpenAPI** and **AsyncAPI** specifications in **TypeScript**.
 
-- **[AzureDevopsExtensions](https://github.com/ivamuno/AzureDevopsExtensions)**  
+- **[azure-devops-extensions](https://github.com/ivamuno/AzureDevopsExtensions)**  
   A set of **Azure DevOps extensions** to quickly build widgets and streamline release management.
 
 ---
 
 ## 🔬 Proof of Concepts & Learning Projects
 
-- **[Nodejs-opentelemetry](https://github.com/ivamuno/Nodejs-opentelemetry)**  
+- **[nestjs-opentelemetry](https://github.com/ivamuno/Nodejs-opentelemetry)**  
   POC for integrating **OpenTelemetry** with web applications and **NestJS (Node.js)** backend.
 
-- **[OpsFlow-Saga](https://github.com/ivamuno/OpsFlow-Saga)**  
+- **[node-saga](https://github.com/ivamuno/OpsFlow-Saga)**  
   POC implementing the **Saga pattern** (inspired by the eventuate-tram framework) to orchestrate microservices.  
   Stack: **TypeScript**, **Vue**, **NestJS**, **RabbitMQ**, **MSSQL**.
 
-- **[Journalearn](https://github.com/ivamuno/Journalearn)**  
+- **[journalearn](https://github.com/ivamuno/Journalearn)**  
   A pet project to improve English writing through daily journals. Built with **Angular**, **Redux**, **TypeScript**, and **Firebase**.
 
 ---
